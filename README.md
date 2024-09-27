@@ -15,4 +15,4 @@ Configuraciones básicas para trabajar con el framework de Django
 - 11 Creando el proyecto -->django-admin startproject weblenceria_proy .
 - 12 Realizar migracion al proyecto python manage.py migrate
 - 13 Ejecutar servidor web --> python manage.py runserver
-- 14 me trabajó proyecto http://127.0.0.1:8000/
+- 14 me trabajó proyecto 
