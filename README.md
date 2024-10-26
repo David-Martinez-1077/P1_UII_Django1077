@@ -13,6 +13,7 @@ Configuraciones básicas para trabajar con el framework de Django
 - 9 actualizar pip --> python -m pip install --upgrade pip
 - 10 instalar Django --> python -m pip install django
 - 11 Creando el proyecto -->django-admin startproject weblenceria_proy .
+- 11.2 django-admin startapp lenceria_app 
 - 12 Realizar migracion al proyecto python manage.py migrate
 - 13 Ejecutar servidor web --> python manage.py runserver
 - 14 me trabajó proyecto 
